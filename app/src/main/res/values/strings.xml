@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileDownlandApp</string>
+    <string name="download_file">Загрузить файл</string>
+    <string name="set_image">Вывести картинку</string>
+</resources>
